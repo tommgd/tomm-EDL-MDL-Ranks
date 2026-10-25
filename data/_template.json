@@ -1,0 +1,8 @@
+{
+    "name": "Level Title Here",
+    "id": 123456789,
+    "gddlRating": "Tier 5",
+    "promoted": "Promoted",
+    "comments": "Insert short excerpt/comments about the level here for the preview.",
+    "reliable": "Optional. What could make this placement less reliable (few attempts, played long ago, etc.). Leave this line out to hide the section."
+}
